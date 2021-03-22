@@ -1,0 +1,44 @@
+Advantages of function 
+----------------------------
+
+1) It reduces length of code 
+2) It improves readability
+3) It improves maintainability
+4) It promotes DRY Principle
+
+
+where DRY Principle means  Dont repeat code yourself
+
+
+IN Shell programming 
+
+how can we define a function
+----------------------------------
+
+2 ways to define a function
+-------------------------------
+1st Way:
+---------
+function functionname()
+{
+  Repetedly required commands
+}
+
+2nd Way :
+
+functionName()
+{
+repetedly required commands 
+
+}
+
+
+now lwt us see how to call a function
+
+Basic Syntax /Rule to call function
+
+
+function_name parameter1  parameter2 parameter 3 ...upto nparameters
+
+no we will see in the next programmming examples in how can we define and call function and also if we pass parameter what happens if we dont pass at that point of time what happens with examples
+

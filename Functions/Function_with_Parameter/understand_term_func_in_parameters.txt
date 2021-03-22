@@ -1,0 +1,15 @@
+Function can accept parameter also which inputs to function 
+within function we can accept parameter as follows
+
+
+
+$1 --> First parameter value
+$2 --> Second parameter Value
+$@ --> All Parameters
+$* --> All Parameters as single String seperated with -  character  of IFS
+
+$# --> number of parameters
+$0 --> No of function name and it is sript name
+
+
+ 
